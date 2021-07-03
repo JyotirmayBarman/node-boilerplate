@@ -29,6 +29,7 @@ Basic boilerplate with niche folder structure for a express node API
 * [mongoose](https://mongoosejs.com/)               | main - mongo db driver for node
 * [jest](https://jestjs.io/)                        | dev - testing node API
 * [pm2](https://pm2.keymetrics.io/)                 | main - managing clusters
+* [Express Validator](https://github.com/express-validator/express-validator)                 | main - Validator user input
 
 ## Folder Structure
 
