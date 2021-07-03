@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "setup": "npm install --save express helmet cors dotenv mongoose morgan axios passport pm2 && npm install --save-dev nodemon jest && npm run post-setup",
+    "setup": "npm install --save express helmet cors dotenv mongoose morgan axios passport pm2 express-validator && npm install --save-dev nodemon jest && npm run post-setup",
     "post-setup": "echo 'PORT=3000' > .env && cd .. && rm -rf .git && cd src && git init",
     "start": "nodemon server.js"
   },
