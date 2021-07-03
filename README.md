@@ -5,10 +5,10 @@
 Basic boilerplate with niche folder structure for a express node API 
 
 ## USAGE
-#### First Clone The Repo
+#### First f all, Clone The Repo
     git clone https://github.com/JyotirmayBarman/node-boilerplate.git Server
     
-#### Then Install dependencies by running
+#### Then Install dependencies and start the server
     cd Server 
     cd src && npm setup
     npm start
