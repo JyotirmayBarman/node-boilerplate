@@ -10,7 +10,7 @@ Basic boilerplate with niche folder structure for a express node API
     
 #### Then Install dependencies and start the server
     cd Server 
-    cd src && npm setup
+    cd src && npm run setup
     npm start
     
 #### Check your server from 
